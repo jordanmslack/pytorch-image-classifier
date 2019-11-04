@@ -1,10 +1,10 @@
 from utils import *
 
+
 def main():
      
     args = arg_parser(type='test')
-    
-    gpu = args.gpu
+
     epochs = args.epochs
     learning_rate = args.learning_rate
     save_dir = args.save_dir
