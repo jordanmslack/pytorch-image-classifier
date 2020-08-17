@@ -1,4 +1,4 @@
-# image_classifier
+# PyTorch Image Classifier
 
 A command line application and Jupyter notebook implementation of image classification leveraging PyTorch. This code allows a user to use a pretrained model, and modify it for use in predicting the correct label of an image. 
 
